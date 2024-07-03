@@ -83,3 +83,6 @@ The `local.conf` file provided as part of the demo setup illustrates a complex s
 - **Security and Access Control**:
   - Demonstrates the use of `autoindex` to control directory listing.
   - Shows how to secure specific directories by restricting allowed methods and using aliases to map URLs to filesystem paths differently.
+
+## Acknowledgments
+- project made in collaboration with [mc-putchar](https://github.com/mc-putchar) and [lbaron42](https://github.com/lbaron42),
